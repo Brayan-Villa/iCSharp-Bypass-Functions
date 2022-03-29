@@ -1,7 +1,9 @@
 /*  
-    20/03/2022  |  ActivationRecord Class
-   Copyright   Brayan Villa  
+ 20/03/2022 Brayan Villa  
+ ActivationRecord Class
 */
+
+
 using System;
 using System.IO;
 using System.Diagnostics;
